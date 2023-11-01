@@ -2,6 +2,9 @@ namespace APILayer
 {
     public class WeatherForecast
     {
+        /// <summary>
+        /// 
+        /// </summary>
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
